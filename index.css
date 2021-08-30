@@ -1,0 +1,133 @@
+.header{
+    width: 100%;
+    height: 85px;
+    background: #3b5998;
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+.logo{
+    width: 50%;
+    padding-top: 27px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    margin-top: -8px;
+}
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 82px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 25px;
+    margin-top: 21px;
+}
+.login-label2{
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff ;
+    height: 22px;
+    border-color: #29487d;
+    cursor: pointer;
+    border-width: 0px;
+}
+.sub-btn:hover{
+    background: #29487d;
+}
+.left-cont{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-cont{
+    width: 39%;
+    float: left;
+}
+.fb-img{
+    margin-top: -32px;
+    border-width: 0px;
+    width: 581px;
+    opacity: 0.7;
+}
+.container{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 800px;
+}
+.para{
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.para2{
+    font-weight: bold;
+    font-size: 18px;
+}
+.txt1{
+    width: 150px;
+    height: 35px;
+    border-radius: 6px 6px;
+    border-color: #fff;
+    font-size: 16px;
+}
+.txt2{
+    width: 305px;
+    height: 35px;
+    border-radius: 6px 6px;
+    font-size: 16px;
+}
+.select{
+    width: 59px;
+    height: 31px;
+    border-radius: 6px;
+    background: #fff;
+    color: gray;
+}
+.para-3{
+    float:right;
+    margin-right:180px;
+    font-size: 10px;
+    color: darkblue;
+    padding-top: 8px
+    
+}
+.link-para3{
+    text-decoration: none;
+}
+.gender-font{
+    font-weight: bold;
+}
+.para4{
+    font-size: 9px;
+    padding-left: 5px;
+    color: gray;
+}
+.link-para4{
+    text-decoration: none;
+}
+.signup-btn{
+    margin-left: 20px;
+    width: 202px;
+    height: 30px;
+    background-color: #00a400;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #fff;
+}
